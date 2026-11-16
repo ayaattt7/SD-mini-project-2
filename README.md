@@ -1,3 +1,4 @@
+Live site link : https://ayaattt7.github.io/SD-mini-project-2/
 # MP2: Responsive Website Development (CO2)
 
 **Course:** Software Development I (CSE-2340)
